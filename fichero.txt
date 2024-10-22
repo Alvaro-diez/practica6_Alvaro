@@ -1,6 +1,6 @@
 repositoria para practica 6 - Alvaro Diez
 
-👽 Añadido nueva linea de texto - Leo
+👽 Añadido nueva linea de texto desde el fork :) - Leo
 Ahi vamos otra vez - Mario S
 
 COSITAS...
